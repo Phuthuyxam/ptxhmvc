@@ -1,6 +1,6 @@
 {
-    "name": "phuthuyxam/hello-composer",
-    "description": "A simple hello world composer package",
+    "name": "phuthuyxam/ptx-hmvc",
+    "description": "make Hmvc structure",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"phuthuyxam\\HelloWorld\\": "src/"}
+        "psr-4": {"phuthuyxam\\HmvcStructure\\": "src/"}
     },
     "require": {}
 }
